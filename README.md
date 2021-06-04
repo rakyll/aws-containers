@@ -14,7 +14,7 @@ and many tools to help you build and distribute containers.
 * [EKS Fargate](https://aws.amazon.com/fargate/)
 * [EKS Anywhere](https://aws.amazon.com/eks/eks-anywhere/)
 * [AppRunner](https://aws.amazon.com/apprunner/)
-* [Lambda](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/) (containers need to implement the Lambda Runtime API)
+* [Lambda](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/) (containers need to implement the [Lambda Runtime API](https://docs.aws.amazon.com/lambda/latest/dg/runtimes-api.html))
 * [Batch](https://aws.amazon.com/batch/)
 
 ## Image Distribution
