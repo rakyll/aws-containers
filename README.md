@@ -17,10 +17,11 @@ and many tools to help you build and distribute containers.
 * [Lambda](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/) (containers need to implement the Lambda Runtime API)
 * [Batch](https://aws.amazon.com/batch/)
 
-## Distribution
+## Image Distribution
 
 * [ECR](https://aws.amazon.com/ecr/)
 * [ECR Public](https://docs.aws.amazon.com/AmazonECR/latest/public/public-repositories.html)
+* [Docker S3 Driver](https://docs.docker.com/registry/storage-drivers/s3/)
 
 ## Build and Deployment
 
